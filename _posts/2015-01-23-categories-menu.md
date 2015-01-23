@@ -8,7 +8,7 @@ permalink: categories-menu
 ## categories-menu
 Snippet para criar um menu de categorias
 
-{% gist rsantostray/73b3ada27f88de7e4b16 categories_menu.html %}
+{% gist rsantostray/73b3ada27f88de7e4b16 categories_menu.twig %}
 
 ## Exemplo
 ![Menu de Categorias OpenCode]({{ site.baseurl }}/assets/components/categories-menu.png)
