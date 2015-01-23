@@ -1,0 +1,8 @@
+<aside class="sidebar">
+    {% for post in site.posts %}
+        <a class="component" href="{{ site.baseurl }}{{ post.url }}">
+            <h5 class="component-title">{{ post.title }}</h5>
+            <p class="component-description">{{ post.description }}</p>
+        </a>
+    {% endfor %}
+</aside>
