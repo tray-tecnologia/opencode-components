@@ -11,7 +11,7 @@ Snippet para criar um menu de categorias
 {% gist rsantostray/73b3ada27f88de7e4b16 categories_menu.html %}
 
 ## Exemplo
-![Menu de Marcas OpenCode]({{ site.baseurl }}/assets/components/categories-menu.png)
+![Menu de Categorias OpenCode]({{ site.baseurl }}/assets/components/categories-menu.png)
 
 ## Como usar
 
